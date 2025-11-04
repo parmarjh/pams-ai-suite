@@ -3,7 +3,7 @@
     width="1200" 
     height="475" 
     alt="GHBanner" 
-    src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" 
+    src="pams ai sute" 
   />
 </div>
 
@@ -18,8 +18,7 @@ An intelligent all-in-one AI platform that helps automate workflows, generate co
 
 This repository contains everything you need to run and deploy your AI-powered app locally or to the cloud.
 
-👉 **View in AI Studio:**  
-[https://ai.studio/apps/drive/1djDQVTgOGfQI2vkGmfLFH-2BYTeMIw6I](https://ai.studio/apps/drive/1djDQVTgOGfQI2vkGmfLFH-2BYTeMIw6I)
+
 
 ---
 
@@ -50,3 +49,4 @@ This repository contains everything you need to run and deploy your AI-powered a
 1. **Install dependencies**
    ```bash
    npm install
+
