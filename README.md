@@ -14,7 +14,7 @@ An intelligent all-in-one AI platform that helps automate workflows, generate co
 
 ---
 
-## 🚀 Run & Deploy Your AI Studio App
+## 🚀 Run & Deploy Your AI  App
 
 This repository contains everything you need to run and deploy your AI-powered app locally or to the cloud.
 
@@ -49,5 +49,6 @@ This repository contains everything you need to run and deploy your AI-powered a
 1. **Install dependencies**
    ```bash
    npm install
+
 
 
