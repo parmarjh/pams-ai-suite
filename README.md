@@ -2,7 +2,7 @@
   <img 
     width="1200" 
     height="475" 
-    alt="GHBanner" 
+    alt="GHBanner18+" 
     src="pams ai sute" 
   />
 </div>
@@ -49,4 +49,5 @@ This repository contains everything you need to run and deploy your AI-powered a
 1. **Install dependencies**
    ```bash
    npm install
+
 
