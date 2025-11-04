@@ -1,20 +1,50 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img 
+    width="1200" 
+    height="475" 
+    alt="ai suite" 
+    src="" 
+  />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧠 PAMS AI Suite
 
-This contains everything you need to run your app locally.
+**PAMS AI Suite (Productivity, Automation & Management System)**  
+An intelligent all-in-one AI platform that helps automate workflows, generate content, and manage business data — powered by **Gemini API** and **AI Studio**.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1N2wHzCm2uceb_XbVTlVaFP2vcvx0FTOt
+---
 
-## Run Locally
+## 🚀 Run & Deploy Your AI  App
 
-**Prerequisites:**  Node.js
+This repository contains everything you need to run and deploy your AI-powered app locally or to the cloud.
 
+👉 **
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+- 🤖 **AI-Driven Automation** — Automate repetitive tasks and workflows.  
+- 🧩 **Modular Architecture** — Easily plug in tools for content, analytics, or CRM.  
+- 🗂️ **Data Management** — Centralized dashboard for insights and reports.  
+- 💬 **Smart Content Generation** — Generate blogs, summaries, and marketing copy.  
+- 🌐 **Cloud Ready** — Deploy instantly to Vercel, Render, or Netlify.  
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend:** Next.js, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **AI Integration:** Gemini API via AI Studio  
+- **Database (optional):** MongoDB / PostgreSQL  
+- **Deployment:** Vercel / Render  
+
+---
+
+## 💻 Run Locally
+
+**Prerequisite:** [Node.js](https://nodejs.org) (v18+ recommended)
+
+1. **Install dependencies**
+   ```bash
+   npm install
